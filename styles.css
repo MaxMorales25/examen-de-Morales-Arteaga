@@ -1,0 +1,38 @@
+body {
+    text-align: center;
+    margin: 40px;
+    list-style: none;
+}
+
+header h1 {
+    background-color: aquamarine;
+}
+
+section {
+    padding: 20px;
+    article {
+        h2 {
+        background-color: lightseagreen;
+        }
+        h3 {
+        background-image: url("ejemplo.jpg");
+        background-color: lightsteelblue;
+        }
+    }
+}
+
+ul {
+    li {
+        a {
+            color: purple;
+        }
+
+        a:hover {
+            color: orangered;
+        }
+    }
+}
+
+footer {
+    background-color: lightcyan;
+}
